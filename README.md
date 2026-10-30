@@ -1,16 +1,14 @@
-## Hi there 👋
+# Osanda Hiripitiya
+Computational Physics Graduate | Software & Machine Learning Developer
 
-<!--
-**OsandaH/OsandaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+* **Languages & Tools:** Python, MATLAB, LaTeX, Jupyter
+* **Machine Learning:** XGBoost, scikit-learn, NumPy
+* **Scientific Software:** Quantum ESPRESSO, VESTA, NAMD
 
-Here are some ideas to get you started:
+## 💻 Featured Projects
+* **TapTix:** Developed a digital event ticketing platform featuring transparent pricing, guest checkout, SMS notifications, and payment gateway integrations.
+* **Material Hardness Prediction:** Built a hybrid machine learning model combining Gradient Boosting and XGBoost to predict the Vickers hardness of ternary boride candidate structures (HfB2Sc, V2B2Sc).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+* **BSc (Honors) in Computational Physics** - University of Colombo
