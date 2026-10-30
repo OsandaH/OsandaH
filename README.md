@@ -7,7 +7,7 @@ Computational Physics Graduate | Software & Machine Learning Developer
 * **Scientific Software:** Quantum ESPRESSO, VESTA, NAMD
 
 ## 💻 Featured Projects
-* **Material Hardness Prediction:** Built a hybrid machine learning model combining Gradient Boosting and XGBoost to predict the Vickers hardness of ternary boride candidate structures (HfB2Sc, V2B2Sc).
+* **Material Hardness Prediction:** Built a hybrid machine learning model combining Gradient Boosting and XGBoost to predict the Vickers hardness of ternary boride candidate structures.
 
 ## 🎓 Education
 * **BSc (Honors) in Computational Physics** - University of Colombo
