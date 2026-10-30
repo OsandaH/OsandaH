@@ -7,7 +7,6 @@ Computational Physics Graduate | Software & Machine Learning Developer
 * **Scientific Software:** Quantum ESPRESSO, VESTA, NAMD
 
 ## 💻 Featured Projects
-* **TapTix:** Developed a digital event ticketing platform featuring transparent pricing, guest checkout, SMS notifications, and payment gateway integrations.
 * **Material Hardness Prediction:** Built a hybrid machine learning model combining Gradient Boosting and XGBoost to predict the Vickers hardness of ternary boride candidate structures (HfB2Sc, V2B2Sc).
 
 ## 🎓 Education
